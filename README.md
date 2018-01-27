@@ -1,2 +1,2 @@
 # Relax Inc. Data Challenge
-A data analysis interview challenge that focuses on identifying the best features to predict future user adoption.
+A data science interview challenge that focuses on identifying the best features to predict future user adoption for a product run by Relax, Inc.
