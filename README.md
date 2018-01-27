@@ -1,2 +1,2 @@
-# Relax_Inc_Data_Science_Challenge
-Identify which factors predict future user adoption.
+# Relax Inc. Data Challenge
+A data analysis interview challenge that focuses on identifying the best features to predict future user adoption.
